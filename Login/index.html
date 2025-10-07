@@ -18,7 +18,25 @@
             <div class="round">
                 <img class="logo" src="./Images/logoo.png" alt="Logo">
             </div>
-            <h1>koenigsegg </h1>
+        <div class="wrap-input-label">
+            <label for="nome">Nome</label>
+            <input type="text" id="nome" placeholder="insira um usuario">
+        </div>
+
+         <div class="wrap-input-label">
+            <label for="senha">Senha</label>
+            <input type="password" id="senha" placeholder="Insira a senha">
+            <div onclick="showPassaword()">
+                <img width="25px" src="./Images/view.png" alt="Eye" class="eye" id="eye">
+            </div> 
+        </div>
+        <button class="btn-login" onclick="login()">Login</button>
+
+        </div>
+
+        <div class="error-div" id="error-modal">
+            <h3>Credenciais incorretas!</h3>
+            <button onclick="fecharError()">❌</button>
         </div>
          <script src="script.js"></script>
     </body>
