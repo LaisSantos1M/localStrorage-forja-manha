@@ -1,0 +1,64 @@
+[
+    {
+        "id":1,
+        "desc":"Gemera",
+        "imagem":"../Dados/Imagens/k1.jpg",
+        "preco": 20000000.00
+
+},
+{
+        "id":2,
+        "desc":"Jesko",
+        "imagem":"../Dados/Imagens/k2.webp",
+        "preco": 18000000.00
+},
+{
+    "id":3,
+        "desc":"Regera",
+        "imagem":"../Dados/Imagens/k3.webp",
+        "preco": 3000000.00
+},
+{
+    "id":4,
+        "desc":"CCXR Trevita",
+        "imagem":"../Dados/Imagens/k4.webp",
+        "preco": 24900000.00
+},
+{
+    "id":5,
+        "desc":"Phoenix",
+        "imagem":"../Dados/Imagens/k5.jpg",
+        "preco": 3000000.00
+},
+{
+    "id":6,
+        "desc":"Agera S",
+        "imagem":"../Dados/Imagens/k6.jpg",
+        "preco": 75000000.00
+},
+{
+    "id":7,
+        "desc":"One:1",
+        "imagem":"../Dados/Imagens/k7.webp",
+        "preco":  29000000.00
+},
+{
+    "id":8,
+        "desc":"Agera final",
+        "imagem":"../Dados/Imagens/k8.jpg",
+        "preco": 3000000.00
+},
+{
+    "id":9,
+        "desc":"Agera RS",
+        "imagem":"../Dados/Imagens/k9.webp",
+        "preco": 3000000.00
+},
+{
+    "id":10,
+        "desc":"Agera S",
+        "imagem":"../Dados/Imagens/k10.jpg",
+        "preco": 3000000.00
+}
+
+]
