@@ -6,4 +6,22 @@
 
 body{
      font-family: "Inter", sans-serif;
+     width: 100vw;
+     height: auto;
+     overflow-x: hidden ;
+     padding: 20px;
+}
+
+.wrap{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items:center ;
+    width: 100%;
+    height: auto;
+    padding: 5%;
+}
+
+.center{
+    gap: 30px
 }
